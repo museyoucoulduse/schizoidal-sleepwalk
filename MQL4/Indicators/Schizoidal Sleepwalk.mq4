@@ -1,8 +1,9 @@
+#property strict
 #property copyright   "2016, Szymon Blaszczynski"                                     // copyright
 #property version     "1.00"                                                      // Version
 #property description "This Indicator is based on Sleepwalking." // Description (line 1)
 #property description "Have a good fun using it!"         // Description (line 2)
-#property icon        "\\Images\\EA_icon.ico";                                    // A file with the product icon
+#property icon        "\\Images\\logo-schizoidal-sleepwalk.ico";                                    // A file with the product icon
 
 #property indicator_chart_window
 #property indicator_buffers 4
